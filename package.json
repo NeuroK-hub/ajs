@@ -1,0 +1,19 @@
+{
+  "name": "@neurok-hub/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeuroK-hub/ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NeuroK-hub/ajs/issues"
+  },
+  "homepage": "https://github.com/NeuroK-hub/ajs#readme",
+  "description": ""
+}
